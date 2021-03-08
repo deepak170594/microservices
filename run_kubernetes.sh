@@ -5,7 +5,7 @@
 # Step 1:
 # This is your Docker ID/path
 # dockerpath=<>
-dockerpath=ziyadmsq/machine-learning-microservice:latest
+dockerpath=deepak/machine-learning-microservice:latest
 
 # Step 2
 # Run the Docker Hub container with kubernetes
