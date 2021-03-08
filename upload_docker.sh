@@ -11,7 +11,7 @@ dockerpath=ziyadmsq/machine-learning-microservice:latest
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
-docker login ziyadmsq
+docker login deepak
 docker tag machine-learning-microservice $dockerpath
 
 # Step 3:
