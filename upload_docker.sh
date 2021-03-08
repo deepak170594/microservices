@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=ziyadmsq/machine-learning-microservice:latest
+dockerpath=deepak/machine-learning-microservice:latest
 
 # Step 2:  
 # Authenticate & tag
